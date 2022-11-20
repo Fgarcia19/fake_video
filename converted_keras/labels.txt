@@ -1,0 +1,4 @@
+0 real
+1 photo
+2 photo_eyes
+3 screen
